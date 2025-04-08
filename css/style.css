@@ -1,0 +1,50 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2023/10/17/09/27/glass-8320734_1280.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.projectsFolder {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(71, 71, 71);
+    border-color: transparent;
+}
+
+.contactMe {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(71, 71, 71);
+    border-color: transparent;
+}
+
+.titleName {
+    color: bisque;
+    background-image: radial-gradient(circle, black, rgb(37, 37, 37));
+}
+
+.Header {
+    margin-bottom: 150px;
+    box-shadow: 0 0 20px rgb(187, 182, 182);
+}
+
+.aboutMe {
+    color: bisque;
+    background-image: radial-gradient(circle, black, rgb(37, 37, 37));
+    margin-bottom: 150px;
+    box-shadow: 0 0 20px rgb(187, 182, 182);
+}
+
+.languagesSection {
+    color: bisque;
+    background-image: radial-gradient(circle, black, rgb(37, 37, 37));
+    margin-bottom: 150px;
+    box-shadow: 0 0 20px rgb(187, 182, 182);
+}
+
+.languagesSection img{
+    background-color: transparent;
+    border: transparent;
+}
