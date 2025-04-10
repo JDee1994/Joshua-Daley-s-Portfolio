@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 1600px;
 }
 
 .projectsFolder {
@@ -14,6 +14,20 @@ body {
 }
 
 .contactMe {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(71, 71, 71);
+    border-color: transparent;
+}
+
+.linkedinButton {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(71, 71, 71);
+    border-color: transparent;
+}
+
+.githubButton {
     height: 100px;
     width: 100px;
     background-color: rgb(71, 71, 71);
@@ -40,11 +54,29 @@ body {
 .languagesSection {
     color: bisque;
     background-image: radial-gradient(circle, black, rgb(37, 37, 37));
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     box-shadow: 0 0 20px rgb(187, 182, 182);
 }
 
 .languagesSection img{
     background-color: transparent;
     border: transparent;
+}
+
+.skillsSection {
+    color: bisque;
+    background-image: radial-gradient(circle, black, rgb(37, 37, 37));
+    margin-bottom: 150px;
+    box-shadow: 0 0 20px rgb(187, 182, 182);
+}
+
+.skillsSection li {
+    list-style-type: "💽";
+}
+
+.projectsSection {
+    color: bisque;
+    background-image: radial-gradient(circle, black, rgb(37, 37, 37));
+    margin-bottom: 150px;
+    box-shadow: 0 0 20px rgb(187, 182, 182);
 }
